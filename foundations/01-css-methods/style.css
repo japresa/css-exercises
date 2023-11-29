@@ -1,0 +1,9 @@
+/* added external css for div container */
+/* the div type selector with 4 properties */
+div{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
