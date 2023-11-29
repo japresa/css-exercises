@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+/* the chaining selector */
+
+/* element with avatar proportioned classes 300px wide, height retain */
+/* element with avatar and distorted classes 200px wide and height twice as big as its width */
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
