@@ -1,0 +1,15 @@
+/* grouping selectors */
+.button-one, .button-two{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* class selector */
+.button-one{
+    background-color: black;
+    color: white;
+}
+
+.button-two{
+    background-color: yellow;
+}
